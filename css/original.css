@@ -1,0 +1,31 @@
+/*!
+ * Start Bootstrap - Freelancer Bootstrap Theme (http://startbootstrap.com)
+ * Code licensed under the Apache License v2.0.
+ * For details, see http://www.apache.org/licenses/LICENSE-2.0.
+ */
+
+body {
+    overflow-x: hidden;
+}
+
+p {
+    font-size: 20px;
+}
+
+p.left {
+    text-align: left;
+}
+
+.youtube43 {
+    position: relative;
+    width: 100%;
+    padding-top:56.25%;
+}
+
+.youtube43 iframe {
+    position: absolute;
+    top:0;
+    right:0;
+    width:100% !important;
+    height:100% !important;
+}
