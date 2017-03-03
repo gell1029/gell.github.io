@@ -9,12 +9,18 @@ body {
 }
 
 p {
-    font-size: 20px;
+    font-size: 15px;
 }
 
 p.left {
+    margin-top: 0px;
     text-align: left;
 }
+
+p.top-margin {
+    margin-top: 30px;
+}
+
 
 .youtube43 {
     position: relative;
